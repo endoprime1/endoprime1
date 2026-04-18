@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Eyo Blessing</h1>
+<h1>👋 Hi, I'm Eyo Blessing</h1>
 
-<p align="center">
+<p>
 💻 Software Developer | ✍️ Content Writer
 </p>
 
@@ -54,19 +54,17 @@
 
 <hr>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Endoprime's Contribution Graph&theme=tokyo-night" />
+</p>
+
+<hr>
+
 <h2>📫 Let's Connect</h2>
 
 <p>
 📧 Email: <a href="mailto:mercyeyo13@gmail.com">mercyeyo13@gmail.com</a><br>
 🔗 LinkedIn: <a href="https://linkedin.com/in/eyoblessing">linkedin.com/in/eyoblessing</a>
-</p>
-
-<hr>
-
-<h2>📈Eyo Blessing's Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=endoprime&theme=tokyo-night" />
 </p>
 
 <hr>
