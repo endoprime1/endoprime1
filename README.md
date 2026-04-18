@@ -47,7 +47,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=endoprime&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=endoprime&theme=tokyonight" />
 </p>
