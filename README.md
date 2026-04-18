@@ -54,12 +54,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Endoprime&theme=tokyo-night" />
-</p>
-
-<hr>
-
 <h2>📫 Let's Connect</h2>
 
 <p>
@@ -68,4 +62,12 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Endoprime&theme=tokyo-night" />
+</p>
+
+<hr>
+
+
 
