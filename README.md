@@ -47,11 +47,10 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=endoprime&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=endoprime&theme=tokyonight" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=endoprime&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=endoprime&theme=tokyonight" />
 </p>
-
 <hr>
 
 <h2>📫 Let's Connect</h2>
