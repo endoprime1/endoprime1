@@ -55,7 +55,7 @@
 <hr>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Endoprime's Contribution Graph&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Endoprime&theme=tokyo-night" />
 </p>
 
 <hr>
